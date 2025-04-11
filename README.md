@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
+| [2998-count-symmetric-integers](https://github.com/1603varsha/Practice1/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/1603varsha/Practice1/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
