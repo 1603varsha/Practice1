@@ -39,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/1603varsha/Practice1/tree/master/2262-solving-questions-with-brainpower) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
