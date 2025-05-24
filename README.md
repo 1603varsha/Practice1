@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/1603varsha/Practice1/tree/master/2262-solving-questions-with-brainpower) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/1603varsha/Practice1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/1603varsha/Practice1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/1603varsha/Practice1/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/1603varsha/Practice1/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/1603varsha/Practice1/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/1603varsha/Practice1/tree/master/3639-zero-array-transformation-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
+| [3194-find-words-containing-character](https://github.com/1603varsha/Practice1/tree/master/3194-find-words-containing-character) |
 ## Queue
 |  |
 | ------- |
