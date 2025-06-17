@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/1603varsha/Practice1/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/1603varsha/Practice1/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/1603varsha/Practice1/tree/master/3321-type-of-triangle) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/1603varsha/Practice1/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/1603varsha/Practice1/tree/master/3201-distribute-candies-among-children-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/1603varsha/Practice1/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Stack
 |  |
 | ------- |
