@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/1603varsha/Practice1/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/1603varsha/Practice1/tree/master/2262-solving-questions-with-brainpower) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/1603varsha/Practice1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/1603varsha/Practice1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/1603varsha/Practice1/tree/master/3194-find-words-containing-character) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/1603varsha/Practice1/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/1603varsha/Practice1/tree/master/3321-type-of-triangle) |
 ## Enumeration
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/1603varsha/Practice1/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/1603varsha/Practice1/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
