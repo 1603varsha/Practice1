@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/1603varsha/Practice1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/1603varsha/Practice1/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/1603varsha/Practice1/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Enumeration
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/1603varsha/Practice1/tree/master/3194-find-words-containing-character) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/1603varsha/Practice1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Queue
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/1603varsha/Practice1/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Tree
 |  |
 | ------- |
@@ -129,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/1603varsha/Practice1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Graph
 |  |
