@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/1603varsha/Practice1/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [1500-count-largest-group](https://github.com/1603varsha/Practice1/tree/master/1500-count-largest-group) |
