@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [1500-count-largest-group](https://github.com/1603varsha/Practice1/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/1603varsha/Practice1/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/1603varsha/Practice1/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1603varsha/Practice1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
