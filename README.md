@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/1603varsha/Practice1/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/1603varsha/Practice1/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1603varsha/Practice1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/1603varsha/Practice1/tree/master/1500-count-largest-group) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1603varsha/Practice1/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/1603varsha/Practice1/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/1603varsha/Practice1/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
