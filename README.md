@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/1603varsha/Practice1/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/1603varsha/Practice1/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0945-snakes-and-ladders](https://github.com/1603varsha/Practice1/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/1603varsha/Practice1/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/1603varsha/Practice1/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
