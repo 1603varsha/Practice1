@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/1603varsha/Practice1/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [0238-product-of-array-except-self](https://github.com/1603varsha/Practice1/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/1603varsha/Practice1/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1603varsha/Practice1/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/1603varsha/Practice1/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/1603varsha/Practice1/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/1603varsha/Practice1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/1603varsha/Practice1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1603varsha/Practice1/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1603varsha/Practice1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/1603varsha/Practice1/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Depth-First Search
@@ -203,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/1603varsha/Practice1/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Linked List
 |  |
