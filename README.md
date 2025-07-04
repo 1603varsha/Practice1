@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/1603varsha/Practice1/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/1603varsha/Practice1/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/1603varsha/Practice1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/1603varsha/Practice1/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/1603varsha/Practice1/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/1603varsha/Practice1/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/1603varsha/Practice1/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/1603varsha/Practice1/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/1603varsha/Practice1/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/1603varsha/Practice1/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/1603varsha/Practice1/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/1603varsha/Practice1/tree/master/0151-reverse-words-in-a-string) |
