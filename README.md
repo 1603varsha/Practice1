@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/1603varsha/Practice1/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/1603varsha/Practice1/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1603varsha/Practice1/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## String
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/1603varsha/Practice1/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/1603varsha/Practice1/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/1603varsha/Practice1/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1603varsha/Practice1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
