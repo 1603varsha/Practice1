@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/1603varsha/Practice1/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/1603varsha/Practice1/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/1603varsha/Practice1/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/1603varsha/Practice1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/1603varsha/Practice1/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/1603varsha/Practice1/tree/master/2262-solving-questions-with-brainpower) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
 | [1500-count-largest-group](https://github.com/1603varsha/Practice1/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/1603varsha/Practice1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/1603varsha/Practice1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
