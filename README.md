@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/1603varsha/Practice1/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
+| [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
 | [0945-snakes-and-ladders](https://github.com/1603varsha/Practice1/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/1603varsha/Practice1/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/1603varsha/Practice1/tree/master/0290-word-pattern) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
+| [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
 | [1500-count-largest-group](https://github.com/1603varsha/Practice1/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/1603varsha/Practice1/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/1603varsha/Practice1/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -248,9 +251,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/1603varsha/Practice1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1603varsha/Practice1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
