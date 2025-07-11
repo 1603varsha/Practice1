@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/1603varsha/Practice1/tree/master/2262-solving-questions-with-brainpower) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1603varsha/Practice1/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/1603varsha/Practice1/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/1603varsha/Practice1/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/1603varsha/Practice1/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/1603varsha/Practice1/tree/master/3194-find-words-containing-character) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/1603varsha/Practice1/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/1603varsha/Practice1/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/1603varsha/Practice1/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2479-meeting-rooms-iii](https://github.com/1603varsha/Practice1/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/1603varsha/Practice1/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/1603varsha/Practice1/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1603varsha/Practice1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/1603varsha/Practice1/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2479-meeting-rooms-iii](https://github.com/1603varsha/Practice1/tree/master/2479-meeting-rooms-iii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/1603varsha/Practice1/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/1603varsha/Practice1/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/1603varsha/Practice1/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/1603varsha/Practice1/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2479-meeting-rooms-iii](https://github.com/1603varsha/Practice1/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/1603varsha/Practice1/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/1603varsha/Practice1/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/1603varsha/Practice1/tree/master/2479-meeting-rooms-iii) |
 ## Hash Function
 |  |
 | ------- |
