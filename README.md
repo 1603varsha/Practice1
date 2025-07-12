@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/1603varsha/Practice1/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/1603varsha/Practice1/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/1603varsha/Practice1/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/1603varsha/Practice1/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/1603varsha/Practice1/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/1603varsha/Practice1/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/1603varsha/Practice1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/1603varsha/Practice1/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/1603varsha/Practice1/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/1603varsha/Practice1/tree/master/0151-reverse-words-in-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/1603varsha/Practice1/tree/master/1019-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/1603varsha/Practice1/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/1603varsha/Practice1/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/1603varsha/Practice1/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/1603varsha/Practice1/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
 ## Recursion
@@ -281,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/1603varsha/Practice1/tree/master/0817-design-hashmap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/1603varsha/Practice1/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/1603varsha/Practice1/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
